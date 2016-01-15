@@ -1,2 +1,2 @@
 # unity-3d-objects
-Unity 3d Objects
+Collection of Unity 3d Objects.
